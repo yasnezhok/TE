@@ -1,0 +1,99 @@
+# Download SRA
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5881997/ERR5881997_1.fastq.gz -o ERR5881997_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5881997/ERR5881997_2.fastq.gz -o ERR5881997_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5881996/ERR5881996_1.fastq.gz -o ERR5881996_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5881996/ERR5881996_2.fastq.gz -o ERR5881996_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5882007/ERR5882007_1.fastq.gz -o ERR5882007_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5882007/ERR5882007_2.fastq.gz -o ERR5882007_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5882004/ERR5882004_1.fastq.gz -o ERR5882004_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5882004/ERR5882004_2.fastq.gz -o ERR5882004_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5882006/ERR5882006_1.fastq.gz -o ERR5882006_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5882006/ERR5882006_2.fastq.gz -o ERR5882006_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5881995/ERR5881995_1.fastq.gz -o ERR5881995_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5881995/ERR5881995_2.fastq.gz -o ERR5881995_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR197/099/SRR19763999/SRR19763999_1.fastq.gz -o SRR19763999_GSM6256965_BulkRNA_hESCs_replicate_A_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR197/099/SRR19763999/SRR19763999_2.fastq.gz -o SRR19763999_GSM6256965_BulkRNA_hESCs_replicate_A_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/056/SRR19548556/SRR19548556_1.fastq.gz -o SRR19548556_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/056/SRR19548556/SRR19548556_2.fastq.gz -o SRR19548556_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR118/060/SRR11802260/SRR11802260.fastq.gz -o SRR11802260_GSM4557145_t0.r3_Homo_sapiens_RNA-Seq.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/059/SRR19548559/SRR19548559_1.fastq.gz -o SRR19548559_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/059/SRR19548559/SRR19548559_2.fastq.gz -o SRR19548559_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/055/SRR19548555/SRR19548555_1.fastq.gz -o SRR19548555_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/055/SRR19548555/SRR19548555_2.fastq.gz -o SRR19548555_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR161/099/SRR16145899/SRR16145899_1.fastq.gz -o SRR16145899_GSM5606905_Wild_type_human_neural_stem_cells_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR161/099/SRR16145899/SRR16145899_2.fastq.gz -o SRR16145899_GSM5606905_Wild_type_human_neural_stem_cells_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR197/098/SRR19763998/SRR19763998_1.fastq.gz -o SRR19763998_GSM6256966_BulkRNA_hESCs_replicate_B_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR197/098/SRR19763998/SRR19763998_2.fastq.gz -o SRR19763998_GSM6256966_BulkRNA_hESCs_replicate_B_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR197/097/SRR19763997/SRR19763997_1.fastq.gz -o SRR19763997_GSM6256967_BulkRNA_hESCs_replicate_C_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR197/097/SRR19763997/SRR19763997_2.fastq.gz -o SRR19763997_GSM6256967_BulkRNA_hESCs_replicate_C_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR118/028/SRR11802228/SRR11802228.fastq.gz -o SRR11802228_GSM4557113_t0.r1_Homo_sapiens_RNA-Seq.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/054/SRR19548554/SRR19548554_1.fastq.gz -o SRR19548554_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/054/SRR19548554/SRR19548554_2.fastq.gz -o SRR19548554_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/003/SRR6781223/SRR6781223_1.fastq.gz -o SRR6781223_GSM3021910_MDS1203_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/003/SRR6781223/SRR6781223_2.fastq.gz -o SRR6781223_GSM3021910_MDS1203_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/009/SRR6781219/SRR6781219_1.fastq.gz -o SRR6781219_GSM3021906_MDS1226_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/009/SRR6781219/SRR6781219_2.fastq.gz -o SRR6781219_GSM3021906_MDS1226_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/002/SRR6781222/SRR6781222_1.fastq.gz -o SRR6781222_GSM3021909_MDS1209_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/002/SRR6781222/SRR6781222_2.fastq.gz -o SRR6781222_GSM3021909_MDS1209_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/004/SRR6781224/SRR6781224_1.fastq.gz -o SRR6781224_GSM3021911_MDS1277_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/004/SRR6781224/SRR6781224_2.fastq.gz -o SRR6781224_GSM3021911_MDS1277_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/000/SRR6781220/SRR6781220_1.fastq.gz -o SRR6781220_GSM3021907_MDS1239_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR678/000/SRR6781220/SRR6781220_2.fastq.gz -o SRR6781220_GSM3021907_MDS1239_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz
+
+
+# QC
+conda activate qc
+fastq ERR588* 
+fastq SRR* 
+multiqc .
+
+# Trimming 
+conda activate trimmomatic
+trimmomatic PE SRR19763999_GSM6256965_BulkRNA_hESCs_replicate_A_Homo_sapiens_RNA-Seq_1.fastq.gz SRR19763999_GSM6256965_BulkRNA_hESCs_replicate_A_Homo_sapiens_RNA-Seq_2.fastq.gz SRR19763999_1.paired.fastq.gz SRR19763999_1.unpaired.fastq.gz SRR19763999_2.paired.fastq.gz SRR19763999_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR19548556_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz SRR19548556_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz SRR19548556_1.paired.fastq.gz SRR19548556_1.unpaired.fastq.gz SRR19548556_2.paired.fastq.gz SRR19548556_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR19548559_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz SRR19548559_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz SRR19548559_1.paired.fastq.gz SRR19548559_1.unpaired.fastq.gz SRR19548559_2.paired.fastq.gz SRR19548559_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR19548555_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz SRR19548555_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz SRR19548555_1.paired.fastq.gz SRR19548555_1.unpaired.fastq.gz SRR19548555_2.paired.fastq.gz SRR19548555_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR19763998_GSM6256966_BulkRNA_hESCs_replicate_B_Homo_sapiens_RNA-Seq_1.fastq.gz SRR19763998_GSM6256966_BulkRNA_hESCs_replicate_B_Homo_sapiens_RNA-Seq_2.fastq.gz SRR19763998_1.paired.fastq.gz SRR19763998_1.unpaired.fastq.gz SRR19763998_2.paired.fastq.gz SRR19763998_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR19763997_GSM6256967_BulkRNA_hESCs_replicate_C_Homo_sapiens_RNA-Seq_1.fastq.gz SRR19763997_GSM6256967_BulkRNA_hESCs_replicate_C_Homo_sapiens_RNA-Seq_2.fastq.gz SRR19763997_1.paired.fastq.gz SRR19763997_1.unpaired.fastq.gz SRR19763997_2.paired.fastq.gz SRR19763997_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR19548554_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_1.fastq.gz SRR19548554_bulk_RNA-seq_of_hiPSC-derived_neuronal_cells_passage_5_2.fastq.gz SRR19548554_1.paired.fastq.gz SRR19548554_1.unpaired.fastq.gz SRR19548554_2.paired.fastq.gz SRR19548554_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR6781223_GSM3021910_MDS1203_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz SRR6781223_GSM3021910_MDS1203_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz SRR6781223_1.paired.fastq.gz SRR6781223_1.unpaired.fastq.gz SRR6781223_2.paired.fastq.gz SRR6781223_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR6781219_GSM3021906_MDS1226_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz SRR6781219_GSM3021906_MDS1226_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz SRR6781219_1.paired.fastq.gz SRR6781219_1.unpaired.fastq.gz SRR6781219_2.paired.fastq.gz SRR6781219_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR6781222_GSM3021909_MDS1209_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz SRR6781222_GSM3021909_MDS1209_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz SRR6781222_1.paired.fastq.gz SRR6781222_1.unpaired.fastq.gz SRR6781222_2.paired.fastq.gz SRR6781222_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR6781224_GSM3021911_MDS1277_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz SRR6781224_GSM3021911_MDS1277_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz SRR6781224_1.paired.fastq.gz SRR6781224_1.unpaired.fastq.gz SRR6781224_2.paired.fastq.gz SRR6781224_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR6781220_GSM3021907_MDS1239_Normal_RNA-seq_Homo_sapiens_RNA-Seq_1.fastq.gz SRR6781220_GSM3021907_MDS1239_Normal_RNA-seq_Homo_sapiens_RNA-Seq_2.fastq.gz SRR6781220_1.paired.fastq.gz SRR6781220_1.unpaired.fastq.gz SRR6781220_2.paired.fastq.gz SRR6781220_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE SRR16145899_GSM5606905_Wild_type_human_neural_stem_cells_Homo_sapiens_RNA-Seq_1.fastq.gz SRR16145899_GSM5606905_Wild_type_human_neural_stem_cells_Homo_sapiens_RNA-Seq_2.fastq.gz SRR16145899_1.paired.fastq.gz SRR16145899_1.unpaired.fastq.gz SRR16145899_2.paired.fastq.gz SRR16145899_2.unpaired.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic SE SRR11802260_GSM4557145_t0.r3_Homo_sapiens_RNA-Seq.fastq.gz SRR11802260.fastq.gz ILLUMINACLIP:TruSeq3-SE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic SE SRR11802228_GSM4557113_t0.r1_Homo_sapiens_RNA-Seq.fastq.gz SRR11802228.fastq.gz ILLUMINACLIP:TruSeq3-SE.fa:2:30:10:7 LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE ERR5881995_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz ERR5881995_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz ERR5881995_1.paired.fastq.gz ERR5881995_1.unpaired.fastq.gz ERR5881995_2.paired.fastq.gz ERR5881995_2.unpaired.fastq.gz LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE ERR5881996_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz ERR5881996_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz ERR5881996_1.paired.fastq.gz ERR5881996_1.unpaired.fastq.gz ERR5881996_2.paired.fastq.gz ERR5881996_2.unpaired.fastq.gz LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE ERR5881997_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz ERR5881997_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz ERR5881997_1.paired.fastq.gz ERR5881997_1.unpaired.fastq.gz ERR5881997_2.paired.fastq.gz ERR5881997_2.unpaired.fastq.gz LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE ERR5882004_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz ERR5882004_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz ERR5882004_1.paired.fastq.gz ERR5882004_1.unpaired.fastq.gz ERR5882004_2.paired.fastq.gz ERR5882004_2.unpaired.fastq.gz LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE ERR5882006_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz ERR5882006_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz ERR5882006_1.paired.fastq.gz ERR5882006_1.unpaired.fastq.gz ERR5882006_2.paired.fastq.gz ERR5882006_2.unpaired.fastq.gz LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+trimmomatic PE ERR5882007_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_1.fastq.gz ERR5882007_Illumina_HiSeq_4000_paired_end_sequencing_RNA-seq_of_early-_and_late-passage_human_mesenchymal_stem_cells_5_donors_donor-matched_with_and_without_treatment_with_2_hours_of_42_degrees_C_heat_shock_2.fastq.gz ERR5882007_1.paired.fastq.gz ERR5882007_1.unpaired.fastq.gz ERR5882007_2.paired.fastq.gz ERR5882007_2.unpaired.fastq.gz LEADING:3 TRAILING:3 MAXINFO:25:0.4 MINLEN:25
+
+# Kallisto
+conda activate kallisto
+kallisto index -i repeats human_families.fas
+kallisto quant -i repeats -o ERR5881995  -b 1000 ERR5881995_1.paired.fastq.gz ERR5881995_2.paired.fastq.gz
+kallisto quant -i repeats -o ERR5881996  -b 1000 ERR5881996_1.paired.fastq.gz ERR5881996_2.paired.fastq.gz
+kallisto quant -i repeats -o ERR5881997  -b 1000 ERR5881997_1.paired.fastq.gz ERR5881997_2.paired.fastq.gz
+kallisto quant -i repeats -o ERR5882004  -b 1000 ERR5882004_1.paired.fastq.gz ERR5882004_2.paired.fastq.gz
+kallisto quant -i repeats -o ERR5882006  -b 1000 ERR5882006_1.paired.fastq.gz ERR5882006_2.paired.fastq.gz
+kallisto quant -i repeats -o ERR5882007  -b 1000 ERR5882007_1.paired.fastq.gz ERR5882007_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR19763999  -b 1000 SRR19763999_1.paired.fastq.gz SRR19763999_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR19548556  -b 1000 SRR19548556_1.paired.fastq.gz SRR19548556_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR19548559  -b 1000 SRR19548559_1.paired.fastq.gz SRR19548559_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR19548555  -b 1000 SRR19548555_1.paired.fastq.gz SRR19548555_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR19763998  -b 1000 SRR19763998_1.paired.fastq.gz SRR19763998_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR19763997  -b 1000 SRR19763997_1.paired.fastq.gz SRR19763997_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR19548554  -b 1000 SRR19548554_1.paired.fastq.gz SRR19548554_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR6781223  -b 1000 SRR6781223_1.paired.fastq.gz SRR6781223_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR6781219  -b 1000 SRR6781219_1.paired.fastq.gz SRR6781219_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR6781222  -b 1000 SRR6781222_1.paired.fastq.gz SRR6781222_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR6781224  -b 1000 SRR6781224_1.paired.fastq.gz SRR6781224_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR6781220  -b 1000 SRR6781220_1.paired.fastq.gz SRR6781220_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR16145899  -b 1000 SRR16145899_1.paired.fastq.gz SRR16145899_2.paired.fastq.gz
+kallisto quant -i repeats -o SRR11802260 -b 1000 --single -l 200 -s 20 SRR11802260.fastq.gz
+kallisto quant -i repeats -o SRR11802228 -b 1000 --single -l 200 -s 20 SRR11802228.fastq.gz
+
+
